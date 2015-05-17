@@ -1,7 +1,7 @@
 library shelf_exception_response.test.exception_response;
 
 import 'dart:async';
-import 'package:unittest/unittest.dart';
+import 'package:test/test.dart';
 import 'package:shelf/shelf.dart' as shelf;
 import 'package:shelf_exception_response/exception_response.dart';
 

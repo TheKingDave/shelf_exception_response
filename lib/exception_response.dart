@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:shelf/shelf.dart' as shelf;
 import 'package:shelf_exception_response/exception.dart';
 export 'package:shelf_exception_response/exception.dart';
-import 'package:tentacle_response_formatter/formatter.dart';
+import 'package:shelf_response_formatter/shelf_response_formatter.dart';
 import 'dart:io' show HttpHeaders;
 
 ResponseFormatter formatter = new ResponseFormatter();
